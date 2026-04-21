@@ -3,19 +3,22 @@
         "name": "量子位",
         "category": "AI",
         "language": "zh",
-        "rss": "https://www.qbitai.com/feed"
+        "rss": "https://www.qbitai.com/feed",
+        "tags": ["中国互联网"]
     },
     {
         "name": "InfoQ 中文网",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://www.infoq.cn/feed"
+        "rss": "https://www.infoq.cn/feed",
+        "tags": ["中国互联网"]
     },
     {
         "name": "钛媒体",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://www.tmtpost.com/rss"
+        "rss": "https://www.tmtpost.com/rss",
+        "tags": ["中国互联网"]
     },
     {
         "name": "Google Research Blog",
@@ -33,115 +36,134 @@
         "name": "少数派科技资讯",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://sspai.com/feed"
+        "rss": "https://sspai.com/feed",
+        "tags": ["中国互联网"]
     },
     {
         "name": "AI洞察日报 RSS Feed",
         "category": "AI",
         "language": "zh",
-        "rss": "https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml"
+        "rss": "https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "逛逛Github",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "机器之心",
         "category": "AI",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/8d97af31b0de9e48da74558af128a4673d78c9a3.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/8d97af31b0de9e48da74558af128a4673d78c9a3.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "极客公园",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/11ea7163fbea99e2ab9fa2812ac3d179574886cc.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/11ea7163fbea99e2ab9fa2812ac3d179574886cc.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "晚点 LatePost",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/c442206ec9957f3c52f2f40300ca532079538b31.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/c442206ec9957f3c52f2f40300ca532079538b31.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "创业邦",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/f5e0d8e342d9e2ec5b2942f08522cfaec17acc8d.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/f5e0d8e342d9e2ec5b2942f08522cfaec17acc8d.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "42章经",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/f6694726ced4ba3d7c7cd65c6edf2160c5978387.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/f6694726ced4ba3d7c7cd65c6edf2160c5978387.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "甲子光年",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/1c4008936645d5c17239d99bba91522cf2bdfa26.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/1c4008936645d5c17239d99bba91522cf2bdfa26.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "白鲸出海",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/2b8f03a73a0f2ac92a8ca69c124e5be6f442dbdc.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/2b8f03a73a0f2ac92a8ca69c124e5be6f442dbdc.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "硅星人 Pro",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/c62ceda9eed269d851802bdbc5f33c4fabbf7462.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/c62ceda9eed269d851802bdbc5f33c4fabbf7462.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "吴晓波频道",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/604fd0bfbb0214958f7fd2718509e4ea038c6afc.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/604fd0bfbb0214958f7fd2718509e4ea038c6afc.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "刘润",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/c1354f67c314d25d6e236a58724043bdc46d6079.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/c1354f67c314d25d6e236a58724043bdc46d6079.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "经纬创投",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/05efb1c4cf91e5a37443cc323150ea38a838e9fd.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/05efb1c4cf91e5a37443cc323150ea38a838e9fd.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "暗涌 Waves",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/bd586c1499b56aaec02dfefa87126232d234b010.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/bd586c1499b56aaec02dfefa87126232d234b010.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "有新 Newin",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/74554dcb3da8982083426b871bc8c314a9de9729.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/74554dcb3da8982083426b871bc8c314a9de9729.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "网易科技",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/028fbc21062e744c7b606880ebca01e22cb4b7b7.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/028fbc21062e744c7b606880ebca01e22cb4b7b7.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "腾讯科技",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/a81bdfcbb9eefe870d285e81510ffa1af26e4520.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/a81bdfcbb9eefe870d285e81510ffa1af26e4520.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "深网腾讯新闻",
         "category": "Business",
         "language": "zh",
-        "rss": "https://wechat2rss.bestblogs.dev/feed/396591aa7d3ef15fa3b5b17ec4b1aa840ebde335.xml"
+        "rss": "https://wechat2rss.bestblogs.dev/feed/396591aa7d3ef15fa3b5b17ec4b1aa840ebde335.xml",
+        "tags": ["中国互联网"]
     },
     {
         "name": "VentureBeat",
@@ -153,30 +175,35 @@
         "name": "GamesIndustry.biz",
         "category": "Business",
         "language": "en",
-        "rss": "https://www.gamesindustry.biz/feed"
+        "rss": "https://www.gamesindustry.biz/feed",
+        "tags": ["游戏+直播"]
     },
     {
         "name": "PocketGamer.biz",
         "category": "Business",
         "language": "en",
-        "rss": "https://www.pocketgamer.biz/rss/"
+        "rss": "https://www.pocketgamer.biz/rss/",
+        "tags": ["游戏+直播"]
     },
     {
         "name": "Esports Insider",
         "category": "Business",
         "language": "en",
-        "rss": "https://esportsinsider.com/feed"
+        "rss": "https://esportsinsider.com/feed",
+        "tags": ["游戏+直播"]
     },
     {
         "name": "Digiday",
         "category": "Business",
         "language": "en",
-        "rss": "https://digiday.com/feed/"
+        "rss": "https://digiday.com/feed/",
+        "tags": ["中国互联网"]
     },
     {
         "name": "Adweek",
         "category": "Business",
         "language": "en",
-        "rss": "https://www.adweek.com/feed/"
+        "rss": "https://www.adweek.com/feed/",
+        "tags": ["中国互联网"]
     }
 ]
