@@ -68,6 +68,22 @@
         "tags": ["中国互联网"]
     },
     {
+        "name": "游戏日报",
+        "category": "Business",
+        "language": "zh",
+        "rss": "https://wechat2rss.bestblogs.dev/feed/4f0b4d0f5f7f7cb27df6117d8559f0df6ea2f7da.xml",
+        "tags": ["游戏+直播"],
+        "status": "candidate"
+    },
+    {
+        "name": "竞核",
+        "category": "Business",
+        "language": "zh",
+        "rss": "https://wechat2rss.bestblogs.dev/feed/5f4a3d1b7df6f0c13d1305d33cf3d0da0a0a8fd5.xml",
+        "tags": ["游戏+直播"],
+        "status": "candidate"
+    },
+    {
         "name": "晚点 LatePost",
         "category": "Business",
         "language": "zh",
