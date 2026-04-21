@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 12:11
+**最后更新时间**: 2026-04-21 13:07
+
+---
+
+## 🆕 最新更新 (2026-04-21 13:07)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Retail sales jump to 3-year high due to surging gas prices, but consumers also aren’t showing any quit](https://www.marketwatch.com/story/retail-sales-jump-to-3-year-high-but-its-due-to-high-gas-prices-0dbfc66b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 12:35
+
+#### [GE sees oil prices staying high through the summer due to the Iran conflict](https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 12:22
+
+#### [‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?](https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 12:16
 
 ---
 

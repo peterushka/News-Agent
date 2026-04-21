@@ -3001,6 +3001,12 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535838&idx=1&sn=0dea5c5932a40f9e21f0029f1800d5b8",
         "published_date": "Tue, 21 Apr 2026 08:08:00 GMT",
         "first_seen": "2026-04-21T12:12:02.072035"
+      },
+      "ff714d873fab758ff68fc0e781d79112a52fb18b0272f2f0432a78cd08a393c1": {
+        "title": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
+        "link": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 19:59:00 GMT",
+        "first_seen": "2026-04-21T13:08:11.643957"
       }
     },
     "Finance": {
@@ -5247,6 +5253,24 @@
         "link": "https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories",
         "published_date": "Tue, 21 Apr 2026 09:30:00 GMT",
         "first_seen": "2026-04-21T12:12:01.774938"
+      },
+      "cbedc240b9ef129703dd715ed15cfa2ef50c028cc7bf058f6f02cb231f72b4c7": {
+        "title": "Retail sales jump to 3-year high due to surging gas prices, but consumers also aren’t showing any quit",
+        "link": "https://www.marketwatch.com/story/retail-sales-jump-to-3-year-high-but-its-due-to-high-gas-prices-0dbfc66b?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 12:35:00 GMT",
+        "first_seen": "2026-04-21T13:08:11.280922"
+      },
+      "81acadb51513c586c1ce4c8e4d819b5844ba8428848e51390ff3f463b1737a43": {
+        "title": "GE sees oil prices staying high through the summer due to the Iran conflict",
+        "link": "https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 12:22:00 GMT",
+        "first_seen": "2026-04-21T13:08:11.280933"
+      },
+      "37edc1313b3a92f2426193797901e500db63a01a54581848e13ae50376b1c3da": {
+        "title": "‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?",
+        "link": "https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 12:16:00 GMT",
+        "first_seen": "2026-04-21T13:08:11.280937"
       }
     },
     "Ai": {
@@ -7099,14 +7123,20 @@
         "link": "https://www.adweek.com/programmatic/index-exchange-welcomes-dsps-into-new-cloud-infra-bringing-bidders-closer-to-ad-inventory/",
         "published_date": "Tue, 21 Apr 2026 08:00:00 GMT",
         "first_seen": "2026-04-21T12:12:01.968850"
+      },
+      "abb4bcb251a5f274cf790aa9023c6e27d3a1f8d07d5b505c1cd085641a0e8d3f": {
+        "title": "Pokémon anime will lean into mobile portfolio with Unite, Sleep and Pokémon Go references teased",
+        "link": "https://www.pocketgamer.biz/pokemon-anime-will-lean-into-mobile-portfolio-with-unite-sleep-and-pokmon-go-references-teased/",
+        "published_date": "Tue, 21 Apr 2026 12:54:00 GMT",
+        "first_seen": "2026-04-21T13:08:11.572069"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-21T12:12:02.072037",
-    "Finance": "2026-04-21T12:12:01.774940",
+    "Technology": "2026-04-21T13:08:11.643966",
+    "Finance": "2026-04-21T13:08:11.280940",
     "Ai": "2026-04-21T12:12:01.929998",
-    "Business": "2026-04-21T12:12:01.968852"
+    "Business": "2026-04-21T13:08:11.572078"
   }
 }
