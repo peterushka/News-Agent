@@ -19,6 +19,8 @@
   - 同时支持通过环境变量 `NEWS_AGENT_BASE_URL` 覆盖
 - 已升级手动重建 workflow，可手动触发完整 RSS 重建与 Pages 部署
 - 已继续补充一组 **与 DOYU / HUYA 高相关的中英文新闻源**
+- 已在源配置中增加 `tags` 字段
+- 已在前端首页增加两个扩展频道：`游戏+直播`、`中国互联网`
 
 ### 2. 当前线上入口
 
@@ -37,6 +39,7 @@
 - AI / Technology / Finance 三个 RSS 当前都可以访问
 - AI feed 已从之前的误覆盖占位内容中恢复
 - Technology / Finance feed 已重新生成并切换为 GitHub Pages 域名
+- 首页文案和频道说明已更新，已包含 `游戏+直播`、`中国互联网`
 
 ### 4. DOYU / HUYA 高相关源扩充（2026-04-21）
 
@@ -66,7 +69,7 @@
 
 #### 已评估但暂未纳入“可用优先”集合的源
 
-这些源在本轮检测中表现为超时、500、证书异常或域名问题，后续如需可继续复测：
+这些源在检测中表现为超时、500、证书异常或域名问题，后续如需可继续复测：
 - 游戏日报（BestBlogs）
 - 竞核（BestBlogs）
 - 华尔街见闻（候选 RSSHub）
@@ -78,7 +81,64 @@
 - The Esports Advocate
 - Rest of World
 
-### 5. 当前仍可继续优化的点
+### 5. 标签体系（新增）
+
+当前在 `config/rss_feed_urls.json` 中已增加 `tags` 字段，先引入两个业务导向标签：
+
+- `游戏+直播`
+- `中国互联网`
+
+#### 当前打标示例
+
+**游戏+直播**
+- GamesIndustry.biz
+- PocketGamer.biz
+- Esports Insider
+- 游戏日报（candidate）
+- 竞核（candidate）
+
+**中国互联网**
+- 量子位
+- InfoQ 中文网
+- 钛媒体
+- 少数派
+- 机器之心
+- 极客公园
+- 晚点 LatePost
+- 创业邦
+- 42章经
+- 甲子光年
+- 白鲸出海
+- 硅星人 Pro
+- 吴晓波频道
+- 刘润
+- 经纬创投
+- 暗涌 Waves
+- 有新 Newin
+- 网易科技
+- 腾讯科技
+- 深网腾讯新闻
+- Digiday
+- Adweek
+
+### 6. 前端频道说明（新增）
+
+首页目前包含 5 个频道：
+- AI
+- Technology
+- Finance
+- 游戏+直播
+- 中国互联网
+
+其中：
+- AI / Technology / Finance：直接读取对应 RSS 文件
+- 游戏+直播 / 中国互联网：当前为 **前端基于已有 RSS 的关键词聚合频道**
+
+说明：
+- 这是一种“最小可用实现”，优点是上线快、不改后端结构
+- 后续更理想的做法是：生成链路把 source metadata/tag 一起写入产物，再由前端按真实 tag 渲染
+
+### 7. 当前仍可继续优化的点
 
 - 首页当前是“最小可用版”，可继续增强：
   - 增加更多频道/筛选器
@@ -88,6 +148,7 @@
   - 首页访问使用 `./outputs/feed/*.xml`
   - feed 自身的 `<link>` / `<atom:link>` 已改为 GitHub Pages 域名
 - 可继续扩充更多中文商业源，并逐步验证可访问性
+- 可把前端聚合频道升级为“按真实 source tags 渲染”
 
 ## 推荐中文商业/科技补充源（已验证/优先方向）
 
@@ -142,13 +203,13 @@
 ## 继续接手时建议优先看
 
 1. `config/rss_feed_urls.json`
-   - 当前新闻源配置入口
+   - 当前新闻源配置入口（已包含 tags / candidate 状态）
 2. `scripts/build_cumulative_feed.py`
    - RSS 生成逻辑，已修 base_url
 3. `scripts/build_cumulative_news.py`
    - 累积新闻生成逻辑
 4. `index.html`
-   - 当前最小可用前端首页
+   - 当前最小可用前端首页（已加两个扩展频道）
 5. `.github/workflows/daily-update.yml`
    - 自动主流程
 6. `.github/workflows/manual-test.yml`
@@ -161,6 +222,7 @@
 ### A. 产品化增强
 - 首页增加来源名、摘要、排序、搜索、频道数量统计
 - 支持更多 feed 在页面中切换展示
+- 将扩展频道改为真正按 source tags 聚合，而非仅关键词匹配
 
 ### B. 源质量治理
 - 给 `config/rss_feed_urls.json` 增加健康检查
