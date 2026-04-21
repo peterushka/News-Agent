@@ -18,6 +18,7 @@
   - 生成器默认 `base_url` 已改为 `https://peterushka.github.io/News-Agent`
   - 同时支持通过环境变量 `NEWS_AGENT_BASE_URL` 覆盖
 - 已升级手动重建 workflow，可手动触发完整 RSS 重建与 Pages 部署
+- 已继续补充一组 **与 DOYU / HUYA 高相关的中英文新闻源**
 
 ### 2. 当前线上入口
 
@@ -37,7 +38,47 @@
 - AI feed 已从之前的误覆盖占位内容中恢复
 - Technology / Finance feed 已重新生成并切换为 GitHub Pages 域名
 
-### 4. 当前仍可继续优化的点
+### 4. DOYU / HUYA 高相关源扩充（2026-04-21）
+
+本轮新增方向偏向：
+- 游戏 / 电竞 / 直播 / 中国互联网平台
+- 中概 / 平台商业化 / 广告与流量
+- 英文行业媒体（游戏、电竞、广告、市场）
+
+#### 已加入配置且当前检测可连通的高相关源
+
+**中文 / 中文转换源**
+- 白鲸出海
+- 晚点 LatePost
+- 暗涌 Waves
+- 腾讯科技
+- 网易科技
+- 深网腾讯新闻
+
+**英文**
+- MarketWatch
+- VentureBeat
+- GamesIndustry.biz
+- PocketGamer.biz
+- Esports Insider
+- Digiday
+- Adweek
+
+#### 已评估但暂未纳入“可用优先”集合的源
+
+这些源在本轮检测中表现为超时、500、证书异常或域名问题，后续如需可继续复测：
+- 游戏日报（BestBlogs）
+- 竞核（BestBlogs）
+- 华尔街见闻（候选 RSSHub）
+- 第一财经周刊（历史候选）
+- 证券时报（候选）
+- Financial Times
+- Reuters Business
+- Reuters Technology
+- The Esports Advocate
+- Rest of World
+
+### 5. 当前仍可继续优化的点
 
 - 首页当前是“最小可用版”，可继续增强：
   - 增加更多频道/筛选器
