@@ -1,7 +1,251 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-20 23:45
+**最后更新时间**: 2026-04-21 07:41
+
+---
+
+## 🆕 最新更新 (2026-04-21 07:41)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [爱奇艺说入驻，艺人说没签，谁在说谎？](https://www.tmtpost.com/7961023.html)
+**发布时间**: 2026-04-21 15:11
+
+#### [汪滔不想被理解，俞浩也不想](https://www.tmtpost.com/7960969.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图](https://www.tmtpost.com/7960965.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [Claude 进了 Word，但“修订模式”不是新发明](https://www.tmtpost.com/7960339.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [关于苹果新任CEO的一切](https://www.tmtpost.com/7961034.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [库克没有辜负乔布斯](https://www.tmtpost.com/7961071.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [梁文锋不在乎赢，DeepSeek不能输](https://www.tmtpost.com/7960987.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [字节的利润去哪了？](https://www.tmtpost.com/7960950.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [爱奇艺太急了](https://www.tmtpost.com/7961125.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？](https://www.tmtpost.com/7960426.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [全球第三的晚课：IONIQ入华，现代汽车能否在"最卷市场"重新定义自己？](https://www.tmtpost.com/7960815.html)
+**发布时间**: 2026-04-21 14:14
+
+#### [聚焦AI+母婴智能硬件，奇世智能CheeChips完成千万元级天使轮融资 | 首发](https://www.tmtpost.com/7960891.html)
+**发布时间**: 2026-04-21 11:52
+
+#### [“老”科技再度走红，戴尔、思科、eBay重获增长动能](https://www.tmtpost.com/7961054.html)
+**发布时间**: 2026-04-21 11:33
+
+#### [为何拉丁美洲航空股票有望跑赢达美航空？](https://www.tmtpost.com/7961041.html)
+**发布时间**: 2026-04-21 11:27
+
+#### [“板前”祛魅](https://www.tmtpost.com/7960975.html)
+**发布时间**: 2026-04-21 11:13
+
+#### [全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官](https://www.tmtpost.com/7960077.html)
+**发布时间**: 2026-04-21 10:47
+
+#### [紫燕食品“亮红灯”](https://www.tmtpost.com/7960799.html)
+**发布时间**: 2026-04-21 10:47
+
+#### [爱奇艺热搜背后，揭秘“买脸”这门生意](https://www.tmtpost.com/7960877.html)
+**发布时间**: 2026-04-21 10:47
+
+#### [中移动：税改 “刮油”？ 撒币需要更大方](https://www.tmtpost.com/7960949.html)
+**发布时间**: 2026-04-21 10:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [构建可信数据智能体的上下文层 ｜ 技术趋势](https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 15:06
+
+#### [湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则](https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 15:00
+
+#### [Vibe Coding 的边界：3000 万开发者，实现不了 80 亿人的灵光](https://www.infoq.cn/article/5mM7VODr7TttHPVwklzl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 14:30
+
+#### [Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了](https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 14:14
+
+#### [Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗](https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 13:19
+
+#### [平台即产品：平衡相互冲突的优先事项并创造价值](https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 11:00
+
+#### [OpenTelemetry 声明式配置迎来稳定性里程碑](https://www.infoq.cn/article/z4MLOC3NU0xbYcYaVVQL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 11:00
+
+#### [GitHub Copilot CLI 正式进入全面可用阶段](https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 10:00
+
+#### [QCon 2026 北京站收官：以 AI 之力，重塑软件工程新生态](https://www.infoq.cn/article/mYPV4DrAJfvixheSs6XK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 09:26
+
+#### [100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？](https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 09:19
+
+#### [Claude Code 桌面版烂爆了，Anthropic 终于把 “100% AI 编码”演砸了](https://www.infoq.cn/article/E3v5OSXbSsKLoqXLBKvP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 09:12
+
+#### [Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键](https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 09:02
+
+#### [AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？](https://www.infoq.cn/article/EejvvufwVGEusllYFHgH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 08:57
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533152&idx=1&sn=904b7943e3e9a2fcf4dd4a925af34c27)
+**发布时间**: 2026-04-21 13:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应](https://sspai.com/post/108909)
+**发布时间**: 2026-04-21 11:30
+
+#### [派早报：华为举办 Pura 系列及全场景新品发布会等](https://sspai.com/post/108921)
+**发布时间**: 2026-04-21 08:20
+
+### 📰 来源: [硅星人 Pro](https://wechat2rss.bestblogs.dev/feed/c62ceda9eed269d851802bdbc5f33c4fabbf7462.xml)
+
+#### [当每个人都能做自己的工具，会发生什么](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627832&idx=1&sn=c6e7f69fe942cb99dfdcb1ee198dbba2)
+**发布时间**: 2026-04-21 11:23
+
+#### [Kimi K2.6：300个Agent优雅并行4000步，它就是Agent的OS｜附一手实测](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627832&idx=2&sn=9b3e09006ec119ce5404a9e91b48642b)
+**发布时间**: 2026-04-21 11:23
+
+#### [Codex 凌晨更新，将屏幕内容「放进记忆」](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627832&idx=3&sn=7acfdabbf2822cdae95cc6ee7259a1ca)
+**发布时间**: 2026-04-21 11:23
+
+#### [ThinkingAI硅谷首秀：在Agent时代，什么才是真正的护城河？](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627711&idx=1&sn=d4526025051146822c06942585aed34a)
+**发布时间**: 2026-04-20 10:04
+
+#### [对话新烛时代汪跃：把物理知识装进AI，做可控核聚变的AI操作系统](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627711&idx=2&sn=fe93dd2fcbdcc4fc1c43326721c7d2ab)
+**发布时间**: 2026-04-20 10:04
+
+#### [“Claude僧人”的奇幻漂流：弃码出家三十年后，回业界调教AI](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627711&idx=3&sn=2b7432a01537d55be9cdca568be5e6d3)
+**发布时间**: 2026-04-20 10:04
+
+#### [本周AI项目推荐：Violoop、Zettlab、EVA OS……](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627689&idx=1&sn=8707cf1556fe0c4d44327c73ea2e91bc)
+**发布时间**: 2026-04-19 10:33
+
+#### [Claude 新产品暴打设计圈，一条推文干崩 Adobe、Figma 股价](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627689&idx=2&sn=22f42fa3cef261d52b611e467452dda0)
+**发布时间**: 2026-04-19 10:33
+
+#### [频繁降智的AI产品们，就是新时代最离谱的盲盒](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627672&idx=1&sn=8867c1fdd1fd3feccaa61e7d31160c55)
+**发布时间**: 2026-04-18 10:55
+
+#### [摆脱经验依赖  玻尔·跃迁实验室补全干湿闭环最后一公里](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247627672&idx=2&sn=a384ba860854c3353afba0c7a6deaef8)
+**发布时间**: 2026-04-18 10:55
+
+### 📰 来源: [极客公园](https://wechat2rss.bestblogs.dev/feed/11ea7163fbea99e2ab9fa2812ac3d179574886cc.xml)
+
+#### [库克卸任苹果 CEO，硬件专家上位；华为发 Pura X Max，10999 元起；月之暗面发布最强模型 Kimi K2.6 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104359&idx=1&sn=11ff28f5dc42e3fe554a88eea3598a5a)
+**发布时间**: 2026-04-21 08:13
+
+#### [Pocket 4 登上北影节红毯，它凭什么？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104339&idx=1&sn=35bff55ed033308afa434a3bdf44b7c0)
+**发布时间**: 2026-04-20 22:35
+
+#### [「想到」就能「得到」：灵光圈，把 Coding Agent 交到普通人手里](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104277&idx=1&sn=d8ed36976420fde0abd26267e8aff8d5)
+**发布时间**: 2026-04-20 11:58
+
+#### [苹果 WWDC 26海报暗示新 Siri 界面；华为靳玉志：乾崑智驾累计突破 100 亿公里；华人女数学家斩获「数学奥斯卡」｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104254&idx=1&sn=7ebf854bd3cd85d6fefc599f641f4ddb)
+**发布时间**: 2026-04-20 08:20
+
+#### [果然，最恨 AI 的人，是大学毕业生](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104139&idx=1&sn=9707a1352ae1f2fb7f3724196693744d)
+**发布时间**: 2026-04-19 12:04
+
+#### [Cursor 融资 20 亿美元，估值达 500 亿美元；传马斯克 xAI 下周发布 Grok AI Coding 工具；Meta 再裁 8000 人 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104239&idx=1&sn=c4efe1246ce8069878397a342a6ef2ad)
+**发布时间**: 2026-04-19 08:32
+
+#### [涉幽灵外卖，7 家平台被罚 35.97 亿元；蓝色起源本周发射太空基站；传 DeepSeek 正寻求首轮外部融资，估值超百亿美元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104178&idx=1&sn=9d87dc75161fedb22c46db4c89275c26)
+**发布时间**: 2026-04-18 09:35
+
+#### [深夜还在盯设备？玻尔·跃迁实验室给出新一代智能实验室方案](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104178&idx=2&sn=f7e8d14b3900a4aebf423e34cc776c55)
+**发布时间**: 2026-04-18 09:35
+
+#### [当游戏遇见 AI：为什么头部厂商都在选择阿里云](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104140&idx=1&sn=2fe0d6a982e7d96e61e4dcdf84c97b71)
+**发布时间**: 2026-04-17 20:20
+
+#### [群核黄晓煌：创业者的「命」，归根结底来自「世界观」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104108&idx=1&sn=aa5112fc52a86d4ba86b38be04fefdf8)
+**发布时间**: 2026-04-17 18:36
+
+### 📰 来源: [腾讯科技](https://wechat2rss.bestblogs.dev/feed/a81bdfcbb9eefe870d285e81510ffa1af26e4520.xml)
+
+#### [苹果官宣换帅：库克卸任CEO，特努斯接任](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567205&idx=1&sn=6cc056a443a34ac362d602efd6c06901)
+**发布时间**: 2026-04-21 07:26
+
+#### [站在Anthropic背后“搞事”的另一个男人](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567199&idx=1&sn=220f972d5eb797b53fcd0a501640f0be)
+**发布时间**: 2026-04-20 18:34
+
+#### [Token计算：下一个十年的成本战争](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567180&idx=1&sn=0cce8e9597aaa53b7ecad486540eb9d8)
+**发布时间**: 2026-04-20 08:57
+
+#### [机器人半马如何跑完21公里？](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567174&idx=1&sn=0432cca3df11f8ca2cda15a9ea8e5e53)
+**发布时间**: 2026-04-19 21:39
+
+#### [华为天才少年想让机器人上产线“打螺丝”](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567148&idx=1&sn=8de6bd81ea74c5cea2b331833440be8e)
+**发布时间**: 2026-04-18 08:39
+
+#### [Opus 4.7赢了Coding，Codex想赢一切](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567136&idx=1&sn=dca85160ff89640e78cfb3d0ae82c055)
+**发布时间**: 2026-04-17 16:40
+
+#### [硅谷大模型的“安全承诺”，正让世界失去安全感](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567122&idx=1&sn=5c8690edc19bfba7280a2aea97bac852)
+**发布时间**: 2026-04-17 09:13
+
+#### [中国网络视听大会“视听时代企业家IP塑造论坛”在蓉圆满举办](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567113&idx=1&sn=8b218315a7d0f798576999738a832dd7)
+**发布时间**: 2026-04-16 20:44
+
+#### [《数字视听时代企业家IP价值重构白皮书》正式发布，首创企业家IP价值评估“TRIP框架”](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567113&idx=2&sn=2ac9fc4e47be4c7607cef65494d49714)
+**发布时间**: 2026-04-16 20:44
+
+#### [何毅进：我们为什么要研究企业家IP发展趋势](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691567113&idx=3&sn=fc2a33e2fde60463db294d5b7b1c12e8)
+**发布时间**: 2026-04-16 20:44
+
+### 📰 来源: [网易科技](https://wechat2rss.bestblogs.dev/feed/028fbc21062e744c7b606880ebca01e22cb4b7b7.xml)
+
+#### [“抛弃”OpenAI，为什么Anthropic成中国AI公司新偶像](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535809&idx=1&sn=17daba56e8e5284eb30a70ad9c8d1c78)
+**发布时间**: 2026-04-20 10:18
+
+#### [300台机器人狂飙亦庄半马:从遥控蹒跚到全自主奔跑，中国具身智能迎来「量产时刻」](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535807&idx=1&sn=d73ac5bdea6e5d3b8605979fc00440a3)
+**发布时间**: 2026-04-19 10:36
+
+#### [一文看懂“世界模型”三大路线：李飞飞、杨立昆、英伟达！三场豪赌，三种未来](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535803&idx=1&sn=402bbb3c3af9ac9bf241dde80ebf7ea5)
+**发布时间**: 2026-04-18 10:04
+
+#### [Opus 4.7来了！官方罕见承认并非最强，用户直呼：真能干，但也太难聊了](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535752&idx=1&sn=2dbc3e792a7ee55cbf5db4a1bffc8a99)
+**发布时间**: 2026-04-17 09:48
+
+#### [被吐槽 “又慢又笨”，自变量怎么敢把机器人缺点全公开？](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535737&idx=1&sn=3887c14ef049d606f52c5f7cafc0421b)
+**发布时间**: 2026-04-16 11:13
+
+#### [一颗燃烧瓶警示AI精英！当AI开始砸人饭碗，真有人敢玩命反击](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535706&idx=1&sn=da244f34a0332cb1c61d0fec7e2ce79f)
+**发布时间**: 2026-04-15 12:21
+
+#### [离职同事被“炼化”成AI？这届公司已经不需要活人了](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535676&idx=1&sn=c61aa0a55072c585dd53b076d05c0ce9)
+**发布时间**: 2026-04-14 08:32
+
+#### [经济学辍学生干翻OpenAI！揭秘Claude Code之父“赛博包工头”工作法：不敲代码，一天交30份作业](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535653&idx=1&sn=ab45cfe82f68bd44a2830dd922996b2c)
+**发布时间**: 2026-04-13 14:35
+
+#### [马斯克狂发大火箭也养不起AI！SpaceX被曝年亏50亿美元：xAI单月烧10亿，无奈带病IPO求打钱](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535628&idx=1&sn=478ab25493e0a08a285df26a9f49c156)
+**发布时间**: 2026-04-10 12:33
+
+#### [凌晨突发！Meta首发闭源大模型，砸下数百亿美元重构底层，硬刚御三家，扎克伯格又行了？](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535586&idx=1&sn=b46d880c88faad0a9d60e9e19c590de0)
+**发布时间**: 2026-04-09 08:33
 
 ---
 

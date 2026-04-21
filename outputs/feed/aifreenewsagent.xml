@@ -1,21 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>AI 新闻汇总 - News Agent</title>
-    <link>https://peterushka.github.io/News-Agent/outputs/feed/aifreenewsagent.xml</link>
-    <description>AI 分类的最新新闻汇总，由 News Agent 自动生成。</description>
+    <title>Ai 新闻汇总 - Free News Agent</title>
+    <link>https://peterushka.github.io/News-Agent/feed/aifreenewsagent.xml</link>
+    <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Apr 2026 23:45:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 23:46:38 GMT</lastBuildDate>
-    <generator>News Agent RSS Generator</generator>
-    <atom:link href="https://peterushka.github.io/News-Agent/outputs/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 Apr 2026 07:41:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:41:54 GMT</lastBuildDate>
+    <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
+    <follow_challenge>
+      <feedId>217166864192638976</feedId>
+      <userId>150738471966655488</userId>
+    </follow_challenge>
+    <atom:link href="https://peterushka.github.io/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 新闻 RSS 已生成</title>
-      <link>https://peterushka.github.io/News-Agent/</link>
-      <description><![CDATA[AI 分类 RSS 已发布到 GitHub Pages。]]></description>
-      <pubDate>Mon, 20 Apr 2026 23:46:38 GMT</pubDate>
-      <guid isPermaLink="true">https://peterushka.github.io/News-Agent/</guid>
-      <category>AI</category>
+      <title>2026-04-21日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-21/</link>
+      <description>&lt;![CDATA[2026-04-21日刊]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-21/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工</title>
+      <link>https://www.qbitai.com/2026/04/403871.html</link>
+      <description>&lt;![CDATA[都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403871.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>把人类驾驶员赶出机场，复旦大牛校友要港股IPO了</title>
+      <link>https://www.qbitai.com/2026/04/403872.html</link>
+      <description>&lt;![CDATA[把人类驾驶员赶出机场，复旦大牛校友要港股IPO了]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 06:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403872.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测</title>
+      <link>https://www.qbitai.com/2026/04/403867.html</link>
+      <description>&lt;![CDATA[小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 04:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403867.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官</title>
+      <link>https://www.qbitai.com/2026/04/403859.html</link>
+      <description>&lt;![CDATA[Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 04:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403859.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代</title>
+      <link>https://www.qbitai.com/2026/04/403836.html</link>
+      <description>&lt;![CDATA[技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 04:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403836.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物</title>
+      <link>https://www.qbitai.com/2026/04/403825.html</link>
+      <description>&lt;![CDATA[天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 04:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403825.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>K型分化，如何破局？| 第20届中国投资年会·年度峰会即将启幕</title>
+      <link>https://www.qbitai.com/2026/04/403822.html</link>
+      <description>&lt;![CDATA[K型分化，如何破局？| 第20届中国投资年会·年度峰会即将启幕]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 03:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403822.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>这次，库克真的要卸任苹果CEO了！</title>
+      <link>https://www.qbitai.com/2026/04/403790.html</link>
+      <description>&lt;![CDATA[这次，库克真的要卸任苹果CEO了！]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 00:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403790.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>跨维智能DexWorldModel斩获榜首，世界模型真正的考场在机器人执行里</title>
+      <link>https://www.qbitai.com/2026/04/403777.html</link>
+      <description>&lt;![CDATA[跨维智能DexWorldModel斩获榜首，世界模型真正的考场在机器人执行里]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 00:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403777.html</guid>
+      <category>Ai</category>
     </item>
   </channel>
 </rss>

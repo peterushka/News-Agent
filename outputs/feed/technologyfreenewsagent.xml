@@ -2,55 +2,343 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Technology 新闻汇总 - Free News Agent</title>
-    <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
+    <link>https://peterushka.github.io/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Apr 2026 23:45:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 23:46:38 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 07:41:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:41:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
       <userId>150738471966655488</userId>
     </follow_challenge>
-    <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://peterushka.github.io/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>先进封装，大战再起</title>
-      <link>https://www.tmtpost.com/7959338.html</link>
-      <description>&lt;![CDATA[先进封装，大战再起]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7959338.html</guid>
+      <title>爱奇艺说入驻，艺人说没签，谁在说谎？</title>
+      <link>https://www.tmtpost.com/7961023.html</link>
+      <description>&lt;![CDATA[爱奇艺说入驻，艺人说没签，谁在说谎？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961023.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 时代的中欧产业重构与合作：建交 51 周年新起点，共探双向共赢新路径</title>
-      <link>https://www.infoq.cn/article/DbItbFaOU2trizVYJam2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 时代的中欧产业重构与合作：建交 51 周年新起点，共探双向共赢新路径]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DbItbFaOU2trizVYJam2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>汪滔不想被理解，俞浩也不想</title>
+      <link>https://www.tmtpost.com/7960969.html</link>
+      <description>&lt;![CDATA[汪滔不想被理解，俞浩也不想]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960969.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Coding，终究是大厂的</title>
-      <link>https://www.tmtpost.com/7960048.html</link>
-      <description>&lt;![CDATA[AI Coding，终究是大厂的]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7960048.html</guid>
+      <title>硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图</title>
+      <link>https://www.tmtpost.com/7960965.html</link>
+      <description>&lt;![CDATA[硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960965.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>分布式缓存数据库的下一站：开源驱动、架构进化与 AI 工程化实践</title>
-      <link>https://www.infoq.cn/article/HVl8bJoNVGtHuki3rB5H?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[分布式缓存数据库的下一站：开源驱动、架构进化与 AI 工程化实践]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HVl8bJoNVGtHuki3rB5H?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude 进了 Word，但“修订模式”不是新发明</title>
+      <link>https://www.tmtpost.com/7960339.html</link>
+      <description>&lt;![CDATA[Claude 进了 Word，但“修订模式”不是新发明]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960339.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实</title>
-      <link>https://www.tmtpost.com/7960107.html</link>
-      <description>&lt;![CDATA[对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 19:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7960107.html</guid>
+      <title>关于苹果新任CEO的一切</title>
+      <link>https://www.tmtpost.com/7961034.html</link>
+      <description>&lt;![CDATA[关于苹果新任CEO的一切]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961034.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>库克没有辜负乔布斯</title>
+      <link>https://www.tmtpost.com/7961071.html</link>
+      <description>&lt;![CDATA[库克没有辜负乔布斯]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961071.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>梁文锋不在乎赢，DeepSeek不能输</title>
+      <link>https://www.tmtpost.com/7960987.html</link>
+      <description>&lt;![CDATA[梁文锋不在乎赢，DeepSeek不能输]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960987.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>字节的利润去哪了？</title>
+      <link>https://www.tmtpost.com/7960950.html</link>
+      <description>&lt;![CDATA[字节的利润去哪了？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960950.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>爱奇艺太急了</title>
+      <link>https://www.tmtpost.com/7961125.html</link>
+      <description>&lt;![CDATA[爱奇艺太急了]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961125.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？</title>
+      <link>https://www.tmtpost.com/7960426.html</link>
+      <description>&lt;![CDATA[黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960426.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>全球第三的晚课：IONIQ入华，现代汽车能否在&quot;最卷市场&quot;重新定义自己？</title>
+      <link>https://www.tmtpost.com/7960815.html</link>
+      <description>&lt;![CDATA[全球第三的晚课：IONIQ入华，现代汽车能否在&quot;最卷市场&quot;重新定义自己？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960815.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>聚焦AI+母婴智能硬件，奇世智能CheeChips完成千万元级天使轮融资 | 首发</title>
+      <link>https://www.tmtpost.com/7960891.html</link>
+      <description>&lt;![CDATA[聚焦AI+母婴智能硬件，奇世智能CheeChips完成千万元级天使轮融资 | 首发]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960891.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“老”科技再度走红，戴尔、思科、eBay重获增长动能</title>
+      <link>https://www.tmtpost.com/7961054.html</link>
+      <description>&lt;![CDATA[“老”科技再度走红，戴尔、思科、eBay重获增长动能]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961054.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为何拉丁美洲航空股票有望跑赢达美航空？</title>
+      <link>https://www.tmtpost.com/7961041.html</link>
+      <description>&lt;![CDATA[为何拉丁美洲航空股票有望跑赢达美航空？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961041.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“板前”祛魅</title>
+      <link>https://www.tmtpost.com/7960975.html</link>
+      <description>&lt;![CDATA[“板前”祛魅]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960975.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官</title>
+      <link>https://www.tmtpost.com/7960077.html</link>
+      <description>&lt;![CDATA[全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960077.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>紫燕食品“亮红灯”</title>
+      <link>https://www.tmtpost.com/7960799.html</link>
+      <description>&lt;![CDATA[紫燕食品“亮红灯”]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960799.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>爱奇艺热搜背后，揭秘“买脸”这门生意</title>
+      <link>https://www.tmtpost.com/7960877.html</link>
+      <description>&lt;![CDATA[爱奇艺热搜背后，揭秘“买脸”这门生意]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960877.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>中移动：税改 “刮油”？ 撒币需要更大方</title>
+      <link>https://www.tmtpost.com/7960949.html</link>
+      <description>&lt;![CDATA[中移动：税改 “刮油”？ 撒币需要更大方]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960949.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>构建可信数据智能体的上下文层 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建可信数据智能体的上下文层 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则</title>
+      <link>https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Vibe Coding 的边界：3000 万开发者，实现不了 80 亿人的灵光</title>
+      <link>https://www.infoq.cn/article/5mM7VODr7TttHPVwklzl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Vibe Coding 的边界：3000 万开发者，实现不了 80 亿人的灵光]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5mM7VODr7TttHPVwklzl?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了</title>
+      <link>https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗</title>
+      <link>https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>平台即产品：平衡相互冲突的优先事项并创造价值</title>
+      <link>https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[平台即产品：平衡相互冲突的优先事项并创造价值]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenTelemetry 声明式配置迎来稳定性里程碑</title>
+      <link>https://www.infoq.cn/article/z4MLOC3NU0xbYcYaVVQL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenTelemetry 声明式配置迎来稳定性里程碑]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/z4MLOC3NU0xbYcYaVVQL?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>GitHub Copilot CLI 正式进入全面可用阶段</title>
+      <link>https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub Copilot CLI 正式进入全面可用阶段]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>QCon 2026 北京站收官：以 AI 之力，重塑软件工程新生态</title>
+      <link>https://www.infoq.cn/article/mYPV4DrAJfvixheSs6XK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[QCon 2026 北京站收官：以 AI 之力，重塑软件工程新生态]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 09:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mYPV4DrAJfvixheSs6XK?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？</title>
+      <link>https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Claude Code 桌面版烂爆了，Anthropic 终于把 “100% AI 编码”演砸了</title>
+      <link>https://www.infoq.cn/article/E3v5OSXbSsKLoqXLBKvP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code 桌面版烂爆了，Anthropic 终于把 “100% AI 编码”演砸了]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/E3v5OSXbSsKLoqXLBKvP?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键</title>
+      <link>https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 09:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？</title>
+      <link>https://www.infoq.cn/article/EejvvufwVGEusllYFHgH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EejvvufwVGEusllYFHgH?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533152&amp;idx=1&amp;sn=904b7943e3e9a2fcf4dd4a925af34c27</link>
+      <description>&lt;![CDATA[Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 13:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533152&amp;idx=1&amp;sn=904b7943e3e9a2fcf4dd4a925af34c27</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应</title>
+      <link>https://sspai.com/post/108909</link>
+      <description>&lt;![CDATA[众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108909</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>派早报：华为举办 Pura 系列及全场景新品发布会等</title>
+      <link>https://sspai.com/post/108921</link>
+      <description>&lt;![CDATA[派早报：华为举办 Pura 系列及全场景新品发布会等]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108921</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>当每个人都能做自己的工具，会发生什么</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&amp;mid=2247627832&amp;idx=1&amp;sn=c6e7f69fe942cb99dfdcb1ee198dbba2</link>
+      <description>&lt;![CDATA[当每个人都能做自己的工具，会发生什么]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&amp;mid=2247627832&amp;idx=1&amp;sn=c6e7f69fe942cb99dfdcb1ee198dbba2</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Kimi K2.6：300个Agent优雅并行4000步，它就是Agent的OS｜附一手实测</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&amp;mid=2247627832&amp;idx=2&amp;sn=9b3e09006ec119ce5404a9e91b48642b</link>
+      <description>&lt;![CDATA[Kimi K2.6：300个Agent优雅并行4000步，它就是Agent的OS｜附一手实测]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&amp;mid=2247627832&amp;idx=2&amp;sn=9b3e09006ec119ce5404a9e91b48642b</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Codex 凌晨更新，将屏幕内容「放进记忆」</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&amp;mid=2247627832&amp;idx=3&amp;sn=7acfdabbf2822cdae95cc6ee7259a1ca</link>
+      <description>&lt;![CDATA[Codex 凌晨更新，将屏幕内容「放进记忆」]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&amp;mid=2247627832&amp;idx=3&amp;sn=7acfdabbf2822cdae95cc6ee7259a1ca</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>库克卸任苹果 CEO，硬件专家上位；华为发 Pura X Max，10999 元起；月之暗面发布最强模型 Kimi K2.6 | 极客早知道</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653104359&amp;idx=1&amp;sn=11ff28f5dc42e3fe554a88eea3598a5a</link>
+      <description>&lt;![CDATA[库克卸任苹果 CEO，硬件专家上位；华为发 Pura X Max，10999 元起；月之暗面发布最强模型 Kimi K2.6 | 极客早知道]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 08:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653104359&amp;idx=1&amp;sn=11ff28f5dc42e3fe554a88eea3598a5a</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>苹果官宣换帅：库克卸任CEO，特努斯接任</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&amp;mid=2691567205&amp;idx=1&amp;sn=6cc056a443a34ac362d602efd6c06901</link>
+      <description>&lt;![CDATA[苹果官宣换帅：库克卸任CEO，特努斯接任]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&amp;mid=2691567205&amp;idx=1&amp;sn=6cc056a443a34ac362d602efd6c06901</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>【钛晨报】李强：进一步优化调整能源结构，强化能源科技创新；“爱奇艺疯了”冲上热搜第一，CEO回应AI争议；抖音副总裁澄清“字节净利下滑70%”传闻</title>
+      <link>https://www.tmtpost.com/7960514.html</link>
+      <description>&lt;![CDATA[【钛晨报】李强：进一步优化调整能源结构，强化能源科技创新；“爱奇艺疯了”冲上热搜第一，CEO回应AI争议；抖音副总裁澄清“字节净利下滑70%”传闻]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960514.html</guid>
       <category>Technology</category>
     </item>
   </channel>
