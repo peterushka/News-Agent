@@ -21,6 +21,8 @@
 - 已继续补充一组 **与 DOYU / HUYA 高相关的中英文新闻源**
 - 已在源配置中增加 `tags` 字段
 - 已在前端首页增加两个扩展频道：`游戏+直播`、`中国互联网`
+- 已确认当前 Markdown 生成不是 LLM 生成，而是 RSS 解析 + Python 模板拼接
+- 已确认当前 AI 筛选模型为 **Gemini 2.5 Flash**（`gemini-2.5-flash`）
 
 ### 2. 当前线上入口
 
@@ -138,7 +140,92 @@
 - 这是一种“最小可用实现”，优点是上线快、不改后端结构
 - 后续更理想的做法是：生成链路把 source metadata/tag 一起写入产物，再由前端按真实 tag 渲染
 
-### 7. 当前仍可继续优化的点
+### 7. AI 筛选现状（新增）
+
+当前 AI 筛选位于：
+- `news_agent/filters/ai_news_filter.py`
+
+已确认：
+- 当前模型：`gemini-2.5-flash`
+- API Key 来源：`GEMINI_API_KEY`
+- 用途：**新闻筛选**，不是 Markdown 生成
+- 当前逻辑：
+  - 给模型文章标题 + 短摘要
+  - 让模型返回要保留的文章序号列表（JSON）
+  - 程序再按序号筛出文章
+- 如果 Gemini 调用失败：
+  - 自动降级为规则筛选（关键词 / 负面词 / 标题长度 / 描述存在性）
+
+### 8. DOYU / HUYA 专题 prompt 设计（新增）
+
+当前 AI 筛选按大类 `AI / Technology / Finance` 工作，但对于 DOYU / HUYA 跟踪场景不够精准。
+建议新增两套专题筛选 prompt：
+
+#### A. `游戏+直播` 专题筛选 prompt
+
+适用目标：
+- 斗鱼 / 虎牙 / 直播平台生态跟踪
+- 游戏内容供给
+- 电竞赛事与主播生态
+- 游戏行业政策与版号变化
+
+建议筛选优先级：
+1. 游戏行业重大变化（版号、头部厂商、发行、渠道）
+2. 电竞赛事、战队、联赛、主播生态
+3. 直播平台竞争格局、用户时长、内容供给
+4. 广告、打赏、电商、会员等变现模式变化
+5. 与平台流量、社区活跃度、内容消费趋势相关的新闻
+
+建议 prompt 核心口径：
+> 请作为游戏、电竞与直播行业分析师，从候选新闻中筛选出最值得跟踪的平台级新闻。优先保留对直播平台竞争、用户时长、主播生态、电竞赛事、游戏内容供给、版号政策、变现模式（广告/打赏/电商/会员）有直接影响的内容。避免保留泛科技、泛财经但与游戏或直播平台关联度低的新闻。
+
+#### B. `中国互联网` 专题筛选 prompt
+
+适用目标：
+- 中国互联网平台格局跟踪
+- 内容平台 / 广告 / 流量 / 中概情绪
+- 与斗鱼 / 虎牙所处平台环境强相关的信息
+
+建议筛选优先级：
+1. 中国互联网平台竞争格局变化
+2. 流量分发、内容平台、广告营销、社区产品变化
+3. 腾讯、字节、阿里、京东、美团、快手、B站、小红书等平台公司的战略与运营变化
+4. 监管、数据、内容合规、未成年人政策
+5. 中概互联网估值、情绪、资本市场影响
+
+建议 prompt 核心口径：
+> 请作为中国互联网平台分析师，从候选新闻中筛选出最值得跟踪的平台级新闻。优先保留对内容平台、流量分发、广告商业化、平台竞争、监管政策、中概互联网市场情绪有直接影响的内容。弱化与中国互联网平台生态关联度较低的泛国际科技新闻。
+
+### 9. 最小接入方案（新增）
+
+为了不破坏现有 `AI / Technology / Finance` 逻辑，建议采用“最小改动接入”方案：
+
+#### 方案目标
+- 保留原有 `category` 驱动流程
+- 在 `ai_news_filter.py` 内新增“专题 prompt 路由”
+- 让 `游戏+直播` / `中国互联网` 可以复用现有 Gemini 调用和 JSON 解析框架
+
+#### 最小改法
+1. 在 `NewsQualityFilter` 中新增一个 prompt builder/router
+   - 例如：`create_filtering_prompt_by_topic(articles, topic, target_count)`
+2. 当分类或附加 topic 命中以下值时，切换专题 prompt：
+   - `游戏+直播`
+   - `中国互联网`
+3. 未命中特殊 topic 时，继续沿用原来的通用 prompt
+4. 后续如果前端扩展频道要升级为后端真实产物，可在生成链路中：
+   - 先按 `tags` 汇总候选文章
+   - 再调用专题 prompt 进行筛选
+   - 输出新的专题 RSS 或专题 JSON
+
+#### 推荐代码落点
+- `news_agent/filters/ai_news_filter.py`
+  - 增加专题 prompt 模板与路由逻辑
+- `scripts/build_cumulative_feed.py`
+  - 若后续需要真正生成专题频道，可在这里增加 tag-based category/topic 处理
+- `config/rss_feed_urls.json`
+  - 已有 `tags` 字段，可直接作为后续 topic 生成依据
+
+### 10. 当前仍可继续优化的点
 
 - 首页当前是“最小可用版”，可继续增强：
   - 增加更多频道/筛选器
@@ -149,6 +236,7 @@
   - feed 自身的 `<link>` / `<atom:link>` 已改为 GitHub Pages 域名
 - 可继续扩充更多中文商业源，并逐步验证可访问性
 - 可把前端聚合频道升级为“按真实 source tags 渲染”
+- 可把 AI 筛选从通用分类升级为“按专题 prompt 精准筛选”
 
 ## 推荐中文商业/科技补充源（已验证/优先方向）
 
@@ -204,17 +292,19 @@
 
 1. `config/rss_feed_urls.json`
    - 当前新闻源配置入口（已包含 tags / candidate 状态）
-2. `scripts/build_cumulative_feed.py`
+2. `news_agent/filters/ai_news_filter.py`
+   - 当前 Gemini 筛选逻辑；后续专题 prompt 优先在这里落地
+3. `scripts/build_cumulative_feed.py`
    - RSS 生成逻辑，已修 base_url
-3. `scripts/build_cumulative_news.py`
+4. `scripts/build_cumulative_news.py`
    - 累积新闻生成逻辑
-4. `index.html`
+5. `index.html`
    - 当前最小可用前端首页（已加两个扩展频道）
-5. `.github/workflows/daily-update.yml`
+6. `.github/workflows/daily-update.yml`
    - 自动主流程
-6. `.github/workflows/manual-test.yml`
+7. `.github/workflows/manual-test.yml`
    - 手动重建入口
-7. `.github/workflows/pages.yml`
+8. `.github/workflows/pages.yml`
    - Pages 发布流程
 
 ## 下一步可选方向
@@ -229,6 +319,11 @@
 - 自动标记超时/失效源
 - 坏源不阻塞整体流程
 
-### C. 中文商业源继续扩充
+### C. 专题化增强（DOYU / HUYA）
+- 为 `游戏+直播` 和 `中国互联网` 增加专用 Gemini 筛选 prompt
+- 让扩展频道从“前端聚合”升级到“后端专题筛选 + 专题产物”
+- 后续可进一步扩展为：直播、电竞、游戏、平台经济、中概互联网等多个专题
+
+### D. 中文商业源继续扩充
 - 持续从 BestBlogs / wechat2rss 中挑选更相关的中文商业、投资、互联网内容源
 - 做一轮“可拉取 / 不可拉取”持续验证
