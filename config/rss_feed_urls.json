@@ -27,13 +27,7 @@
         "name": "虎嗅网（科技板块）",
         "category": "Technology",
         "language": "zh",
-        "rss": "https://www.huxiu.com/rss/1.xml"
-    },
-    {
-        "name": "虎嗅网（商业板块）",
-        "category": "Business",
-        "language": "zh",
-        "rss": "https://www.huxiu.com/rss/102.xml"
+        "rss": "https://www.huxiu.com/rss/0.xml"
     },
     {
         "name": "钛媒体",
@@ -45,25 +39,13 @@
         "name": "36氪",
         "category": "Business",
         "language": "zh",
-        "rss": "https://36kr.com/feed"
-    },
-    {
-        "name": "界面新闻",
-        "category": "Business",
-        "language": "zh",
-        "rss": "https://www.jiemian.com/rss/index.xml"
-    },
-    {
-        "name": "华尔街见闻",
-        "category": "Finance",
-        "language": "zh",
-        "rss": "https://wallstreetcn.com/rss"
+        "rss": "https://www.36kr.com/feed"
     },
     {
         "name": "财经网",
         "category": "Finance",
         "language": "zh",
-        "rss": "http://www.caijing.com.cn/rss.xml"
+        "rss": "http://www.caijing.com.cn/rss.html"
     },
     {
         "name": "Google Research Blog",
