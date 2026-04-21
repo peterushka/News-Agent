@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "194d2807d144f4a4f9624e1babf2bddafd27acf19666ee311193d8b0f4018db0": {
-        "title": "AI狂潮冷思考：当模型沦为水电煤，巨头的真正战场在哪？",
-        "link": "https://www.tmtpost.com/7924190.html",
-        "published_date": "Sun, 22 Mar 2026 14:42:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.003072"
-      },
-      "20c06e7c6509e8b0eb05936daa5eee3d1f6252f2b717d1313047cc3cc66898d6": {
-        "title": "宇树科技IPO：当“全球第一”遇上科创板，一场关于机器人商业化的压力测试",
-        "link": "https://www.tmtpost.com/7924277.html",
-        "published_date": "Sun, 22 Mar 2026 14:58:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.003079"
-      },
-      "e64a223c0590319652ddaea00b74849360f96daf13b8d8262c82a55e47e089cb": {
-        "title": "空间智能时代，百亿裸眼3D显示排位战开启",
-        "link": "https://www.tmtpost.com/7924179.html",
-        "published_date": "Sun, 22 Mar 2026 14:27:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.003082"
-      },
-      "7fa2433683345c5cd18b29e5aef15fd57998316ac9170b3e1c7a012cff3bbacc": {
-        "title": "腾讯AI合二为一，姚顺雨第一个大模型混元3.0稳了？",
-        "link": "https://www.tmtpost.com/7924258.html",
-        "published_date": "Sun, 22 Mar 2026 14:58:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.003084"
-      },
-      "f451da4a9c1d8e4892ac46211dd96d80f456012622088a2b4aefd35458709327": {
-        "title": "淘宝闪购下半场：继续优化UE，加速协同电商",
-        "link": "https://www.tmtpost.com/7924082.html",
-        "published_date": "Sun, 22 Mar 2026 09:58:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.003086"
-      },
       "096844a4fefc5f633535a142b2fcd15aedf200fe83d6013035f280491d370797": {
         "title": "为什么字节难以招架版权纠纷，而OpenAI和Anthropic却能赢？",
         "link": "https://www.tmtpost.com/7924370.html",
@@ -2887,15 +2857,153 @@
         "link": "https://www.tmtpost.com/7960514.html",
         "published_date": "Tue, 21 Apr 2026 07:20:00 GMT",
         "first_seen": "2026-04-21T07:41:54.773765"
+      },
+      "f0716032d135758da0ed62853032d3b74557d2ef3b0ff27b098d6cbb5084c87c": {
+        "title": "模力工场 036 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
+        "link": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 19:59:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.071990"
+      },
+      "6f2b8d91118100d5e786ecda943cf3f406c0f1090004235106681002d741fbe0": {
+        "title": "中国具身智能最高单轮融资出炉！前华为、百度高管联手创业，打造真干活、真量产的机器人",
+        "link": "https://www.infoq.cn/article/aqYPpJBPlvaJDQDCNlrJ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 17:37:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072000"
+      },
+      "3d75fa98b0aed1316f3f417c27f092e94700955086ba2060fedd48e0a1c0c956": {
+        "title": "智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 17:29:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072002"
+      },
+      "de76e254e895c6b77131552ace11ac8ffcc5bea50e41bfd989a17c8fab422b5d": {
+        "title": "“守成者”库克卸任CEO：除了离开，他再没有什么能贡献给苹果了",
+        "link": "https://www.infoq.cn/article/PxmVh2miqDZB6jDbAqeK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 17:23:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072004"
+      },
+      "7b0e9bc0fbeaba09ff77d9bf5159730e950612a739c96fa785dc0f06b48394b2": {
+        "title": "50亿估值，投资人挤破头要投张雪",
+        "link": "https://www.tmtpost.com/7961399.html",
+        "published_date": "Tue, 21 Apr 2026 19:08:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072006"
+      },
+      "1e2109bd3fe091a5a029ef2ec834a64744e2341e9fc1701844b1de3b63bce0ac": {
+        "title": "MiniMax不需要讨好开源",
+        "link": "https://www.tmtpost.com/7961547.html",
+        "published_date": "Tue, 21 Apr 2026 19:08:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072008"
+      },
+      "fc2b752e60a4512391be318180146161f12fed33952c5dd3c305931f7359dd56": {
+        "title": "大厂苦文档久矣",
+        "link": "https://www.tmtpost.com/7961335.html",
+        "published_date": "Tue, 21 Apr 2026 18:07:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072010"
+      },
+      "45843d5d2f63901a976f64d7e4863470cb336b5c16d7cbe6ca85a820c9779967": {
+        "title": "伟大的接班人，都在背叛前任",
+        "link": "https://www.tmtpost.com/7961333.html",
+        "published_date": "Tue, 21 Apr 2026 18:07:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072012"
+      },
+      "2ffaaad2e642242083bbf4b5ec03d76c8f37b19e625f905e7f0416d0ba39071e": {
+        "title": "自主还是兼容：DeepSeek V4延期背后的中国AI生态选择题",
+        "link": "https://www.tmtpost.com/7961261.html",
+        "published_date": "Tue, 21 Apr 2026 18:06:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072013"
+      },
+      "ecb668034925a674f12e93afb694085c34be69a579619e02cbd644e0fef9eb9c": {
+        "title": "三个“十亿美元分子”，偏头疼药物大爆发",
+        "link": "https://www.tmtpost.com/7961100.html",
+        "published_date": "Tue, 21 Apr 2026 17:25:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072015"
+      },
+      "6a625e1c243706fb24d79eebb95b292a27def64caa4cc6e3d06d5c5610a6627a": {
+        "title": "谷歌也急了",
+        "link": "https://www.tmtpost.com/7961120.html",
+        "published_date": "Tue, 21 Apr 2026 17:25:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072016"
+      },
+      "44541f53923d7bf3a98c57bfcd37216a01da3394b2384385eef3a5f0202251ef": {
+        "title": "知名记者出书爆锤OpenAI，奥特曼亲自下场反击，《AI帝国》作者最新访谈揭露了更多内幕",
+        "link": "https://www.tmtpost.com/7951128.html",
+        "published_date": "Tue, 21 Apr 2026 17:25:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072018"
+      },
+      "f50261b9df34ecba48f8be872d6141b4616c2b2a73c0499b5860c1e92e6100ab": {
+        "title": "扣子2.5替我刷抖音、逛酒馆：坏了，我成替身了？",
+        "link": "https://www.tmtpost.com/7961188.html",
+        "published_date": "Tue, 21 Apr 2026 17:25:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072019"
+      },
+      "11c73e3468e52ffb6d5519f8cdbc64191fdcb8d274dd253ad7ad1e89b3ed6652": {
+        "title": "Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图",
+        "link": "https://www.tmtpost.com/7961404.html",
+        "published_date": "Tue, 21 Apr 2026 17:16:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072021"
+      },
+      "b8dea7ebb824a135f70d3be62f6c6b28501d48f28a5cda9fa05163dc618e7d41": {
+        "title": "AI时代最贵的“布”，到底有多抢手？",
+        "link": "https://www.tmtpost.com/7961280.html",
+        "published_date": "Tue, 21 Apr 2026 16:40:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072022"
+      },
+      "34143de1f0509dfae38f0cdfa952a3051f2751582fc3c1ff01379518fecf7e8e": {
+        "title": "梭哈AI！爱奇艺“疯了”上热搜，爱豆会失业吗？",
+        "link": "https://www.tmtpost.com/7960502.html",
+        "published_date": "Tue, 21 Apr 2026 16:38:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072024"
+      },
+      "255a2ca157e10bedfa99cb51a47bb1a353985d511d6bc3f65464d5f9c86d767c": {
+        "title": "龚宇的AI梦，为何成了爱奇艺的公关噩梦？",
+        "link": "https://www.tmtpost.com/7960807.html",
+        "published_date": "Tue, 21 Apr 2026 16:38:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072025"
+      },
+      "b669b56be701f36a19e290e6d9953e3095814acb3eafb9ab58135e495487e083": {
+        "title": "从FDA绿灯到国内未获批准，全球FIC折戟背后",
+        "link": "https://www.tmtpost.com/7960894.html",
+        "published_date": "Tue, 21 Apr 2026 16:38:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072027"
+      },
+      "09b6e59c0bde281497173877979d6d02765c7ef4e69c0d95da7472166d3b8a09": {
+        "title": "DDR3第二春：一场没得选的狂欢",
+        "link": "https://www.tmtpost.com/7960900.html",
+        "published_date": "Tue, 21 Apr 2026 16:38:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072028"
+      },
+      "c325a58fbe77eabde8585911f6fe0e0fbacab1ee5b9c79ab91040bf1fc1b805d": {
+        "title": "制药界Space X登场，AI制药集齐“三小龙”",
+        "link": "https://www.tmtpost.com/7960901.html",
+        "published_date": "Tue, 21 Apr 2026 16:38:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072030"
+      },
+      "aab97d13651d2dbf576beddaa45872f0a0a676615815854f0eb9c96cd07fb4c3": {
+        "title": "Tim Cook 将要转任的「执行董事长」是什么职务？",
+        "link": "https://sspai.com/post/108945",
+        "published_date": "Tue, 21 Apr 2026 18:09:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072031"
+      },
+      "26f619ae07a91be19b5b3e3bfe2c955e52fa82ae860b6f8aacde820d8f3814f0": {
+        "title": "社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛",
+        "link": "https://sspai.com/post/108943",
+        "published_date": "Tue, 21 Apr 2026 17:32:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072032"
+      },
+      "15ce34ba10f371eebacd62a1ae3ec42ba0e2d237940205fd370b839628713311": {
+        "title": "Adversaries hijacked AI security tools at 90+ organizations. The next wave has write access to the firewall",
+        "link": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall",
+        "published_date": "Tue, 21 Apr 2026 12:05:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072034"
+      },
+      "e678624cea2462d698d2619b1e8330e7e7df69da64ab0ad44f270aad4e436db0": {
+        "title": "苹果突然宣布：库克卸任CEO，为何是这位“硬件狂人”接班？",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535838&idx=1&sn=0dea5c5932a40f9e21f0029f1800d5b8",
+        "published_date": "Tue, 21 Apr 2026 08:08:00 GMT",
+        "first_seen": "2026-04-21T12:12:02.072035"
       }
     },
     "Finance": {
-      "babe178c34a4047193693b072829b5606a8de452ee596b5bd8e27a3674230b74": {
-        "title": "China touts itself as ‘harbour of stability’ to global CEOs",
-        "link": "https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1",
-        "published_date": "Sun, 22 Mar 2026 06:23:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.037166"
-      },
       "4f8a284c8bd86a7d484e01830083d7d7c18f0147228495602c41d0ba197e8705": {
         "title": "Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled",
         "link": "https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories",
@@ -5079,27 +5187,69 @@
         "link": "https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories",
         "published_date": "Tue, 21 Apr 2026 01:22:00 GMT",
         "first_seen": "2026-04-21T07:41:54.459884"
+      },
+      "e9e6559d5a504282630f4ea089c4e24771109356af37c95030a4841eeba2ed05": {
+        "title": "Halliburton’s earnings take a hit from the Iran conflict, but they still top forecasts",
+        "link": "https://www.marketwatch.com/story/halliburtons-earnings-take-a-hit-from-the-iran-conflict-but-they-still-top-forecasts-acca3198?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 12:02:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774911"
+      },
+      "062a7fcb77ea3a603a16f61d0cad2c99d6dc147e3a35fd185d008effb1b33696": {
+        "title": "The chatbot era is over — these 3 sectors are the real AI gold mines for 2026",
+        "link": "https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 11:57:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774923"
+      },
+      "5c83684b28a8191ad1214c624df6a0943b727b22b244a540974086fa85f7c902": {
+        "title": "Traders pile into call options as fear of missing out grows, according to Cboe",
+        "link": "https://www.marketwatch.com/story/traders-pile-into-call-options-as-fear-of-missing-out-grows-according-to-cboe-c63f2038?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 11:56:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774925"
+      },
+      "7dee2fb8845bf9690168fc2b405a9d4ebc36a149f3bc5ee1f67730cdb2523bdd": {
+        "title": "The ‘blue sky’ scenario that could take the S&P 500 to 8,000 by year’s end, according to JPMorgan",
+        "link": "https://www.marketwatch.com/story/the-blue-sky-scenario-that-could-take-the-s-p-500-to-8-000-by-years-end-according-to-jpmorgan-10138b80?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 11:25:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774927"
+      },
+      "fba9268241c14af9e2cc520d055ae63d2dd8323fe2d5337c5f391ed58c1f6763": {
+        "title": "GE’s profit beats by wide margin, sending its stock into positive territory for the year",
+        "link": "https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 11:25:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774930"
+      },
+      "3a8ddab110b533a4ae47cd2a3bb582d2437d6adcc7242a572db601817eba33ae": {
+        "title": "The current oil shock most resembles the first Gulf War, says UBS. What that means for prices.",
+        "link": "https://www.marketwatch.com/story/oil-will-fall-to-the-mid-80s-in-a-best-case-scenario-says-ubs-312a7055?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 11:13:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774932"
+      },
+      "16c7bf69b15c7030c6be4502083fc1c244b8ad3d180fabd2d75aa4978458d79a": {
+        "title": "Financial literacy will get serious treatment in high schools starting next year",
+        "link": "https://www.marketwatch.com/story/financial-literacy-will-get-serious-treatment-in-high-schools-starting-next-year-13e94b76?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774933"
+      },
+      "d4817c569add3fc0f9b3c15d8e4264a56f11a202adf348dc8b505c66bef16684": {
+        "title": "This is the No. 1 financial worry for retirees right now",
+        "link": "https://www.marketwatch.com/story/this-is-the-no-1-financial-worry-for-retirees-right-now-b5cb7884?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 10:01:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774934"
+      },
+      "a4d3fb767f195617ba87bc95e1d60ae7cb8a15a9d22c34aced42ace468c86572": {
+        "title": "UnitedHealth’s stock surges as profit beats expectations by widest margin in five years",
+        "link": "https://www.marketwatch.com/story/unitedhealths-stock-surges-as-profit-beats-expectations-by-widest-margin-in-five-years-9d1cebb1?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 10:01:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774936"
+      },
+      "67c293b8c3a4743bba883fba0600189631097d49295a9ae483f6a8533f59e23c": {
+        "title": "Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so",
+        "link": "https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 09:30:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.774938"
       }
     },
     "Ai": {
-      "df02aef32fe0f89b1e6d94f600fa95f005c924f23a8025dffe776a4910602e8b": {
-        "title": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26",
-        "link": "https://www.qbitai.com/2026/03/391014.html",
-        "published_date": "Sun, 22 Mar 2026 07:17:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.184560"
-      },
-      "1eaea9180185188ddbc6d658d9a48428fe339c88263e9b24282451049fb6afd0": {
-        "title": "阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用",
-        "link": "https://www.qbitai.com/2026/03/391010.html",
-        "published_date": "Sun, 22 Mar 2026 07:09:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.184567"
-      },
-      "bb4ba4034057391ba9dcdfaf1d19fcba8e897d92dce3e9d2d2b87475f22c3476": {
-        "title": "大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”",
-        "link": "https://www.qbitai.com/2026/03/390990.html",
-        "published_date": "Sun, 22 Mar 2026 07:03:00 GMT",
-        "first_seen": "2026-03-22T08:39:05.184569"
-      },
       "a1829c9b461e4474bb5287d2a6fb398d3bfcbedab5ffdafd4f07f8a0e026db46": {
         "title": "马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工，算力产能扩5000%",
         "link": "https://www.qbitai.com/2026/03/391045.html",
@@ -6605,6 +6755,18 @@
         "link": "https://www.qbitai.com/2026/04/403777.html",
         "published_date": "Tue, 21 Apr 2026 00:06:00 GMT",
         "first_seen": "2026-04-21T07:41:54.611626"
+      },
+      "8209cb2a42b554779c493ea482b5e310e5fbe158e84bafd2c077684eeee876bd": {
+        "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
+        "link": "https://www.qbitai.com/2026/04/404086.html",
+        "published_date": "Tue, 21 Apr 2026 08:45:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.929987"
+      },
+      "5d95dd9f76e0927928cf9c40f4d562feac8a9b83f1d8cbca3483c158828b8c4b": {
+        "title": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+        "link": "https://www.qbitai.com/2026/04/404082.html",
+        "published_date": "Tue, 21 Apr 2026 08:31:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.929995"
       }
     },
     "Business": {
@@ -6883,14 +7045,68 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247535174&idx=2&sn=6e59c72dbe160ef3bcff71d172f339ec",
         "published_date": "Sun, 19 Apr 2026 14:48:00 GMT",
         "first_seen": "2026-04-21T07:41:54.673320"
+      },
+      "e52336a151b71018271c3a3ac6d091cbc96dc54d9fb112457dc133ade105439b": {
+        "title": "库克交棒：苹果赚了4万亿，但AI却掉队了 | 深网",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzIwMTY1NDg4Nw==&mid=2247525272&idx=1&sn=48a325b9da4880cf9620a9f8b0e859b9",
+        "published_date": "Tue, 21 Apr 2026 17:47:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968831"
+      },
+      "da483f41d3a358090f9701bbd8878c04a2756f6dcb9e530d968c4ff597670f7e": {
+        "title": "GPU利用率不到15%，AI产业最大的浪费正在被这家公司改写｜甲子光年",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247553530&idx=1&sn=6ba9a997e149f57f6247b3d16f080c83",
+        "published_date": "Tue, 21 Apr 2026 13:01:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968839"
+      },
+      "ff5bbc377479968b17f67f3941b5724a788417ebcfe6ec1e50961f198590836b": {
+        "title": "Deluxe Creation Studios’ Shola Edu on monetisation in Africa, global audiences and what actually drives revenue",
+        "link": "https://www.pocketgamer.biz/deluxe-creation-studios-shola-edu-on-monetisation-in-africa-global-audiences-and-what-actually-drives-revenue/",
+        "published_date": "Tue, 21 Apr 2026 12:11:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968841"
+      },
+      "2cf9ea68b204ffbd713399b139fa2d3197c78fb0daefefdc38869ed127238feb": {
+        "title": "Games industry M&A hit 15-month high in Q1 2026 with over $100bn in deal value",
+        "link": "https://www.pocketgamer.biz/games-industry-manda-hit-15-month-high-in-q1-2026-with-over-100bn-in-deal-value/",
+        "published_date": "Tue, 21 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968842"
+      },
+      "45ddf4aad6d906d7517f24961e2942fbc3244e4cf707c61d8c12ce2255240a5c": {
+        "title": "Roblox workforce grows 24% to over 3,000 full-time staff",
+        "link": "https://www.pocketgamer.biz/roblox-workforce-grows-24-to-over-3000-full-time-staff/",
+        "published_date": "Tue, 21 Apr 2026 10:50:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968844"
+      },
+      "ad0f519335ac087e9d6bf19f130116a4cd4dd068ea49d8d9a87695267c7f8bda": {
+        "title": "Tamatem acquires ad tech firm Playable Factory in AI-first shift",
+        "link": "https://www.pocketgamer.biz/tamatem-acquires-ad-tech-firm-playable-factory-in-ai-first-shift/",
+        "published_date": "Tue, 21 Apr 2026 09:50:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968845"
+      },
+      "fa288136847b4d3ac735827886e561ea9de5811758790fb41a62c90dd7213bc0": {
+        "title": "Sanrio establishes in-house gaming brand Sanrio Games",
+        "link": "https://www.gamesindustry.biz/sanrio-establishes-in-house-gaming-brand-sanrio-games",
+        "published_date": "Tue, 21 Apr 2026 09:51:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968847"
+      },
+      "ee5dccbccdfdb7c9d4c2e31745bd59087fbe9567cd014a4878489287bdcefb48": {
+        "title": "Toei Company launches publishing label Toei Games",
+        "link": "https://www.gamesindustry.biz/toei-company-launches-publishing-label-toei-games",
+        "published_date": "Tue, 21 Apr 2026 07:57:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968849"
+      },
+      "88d613dc2526231f2d620fe57738079233b674950be22b7cd0a97e89eef5ed1d": {
+        "title": "Index Exchange Welcomes DSPs into New Cloud Infra, Bringing Bidders Closer to Ad Inventory",
+        "link": "https://www.adweek.com/programmatic/index-exchange-welcomes-dsps-into-new-cloud-infra-bringing-bidders-closer-to-ad-inventory/",
+        "published_date": "Tue, 21 Apr 2026 08:00:00 GMT",
+        "first_seen": "2026-04-21T12:12:01.968850"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-21T07:41:54.773766",
-    "Finance": "2026-04-21T07:41:54.459887",
-    "Ai": "2026-04-21T07:41:54.611628",
-    "Business": "2026-04-21T07:41:54.673322"
+    "Technology": "2026-04-21T12:12:02.072037",
+    "Finance": "2026-04-21T12:12:01.774940",
+    "Ai": "2026-04-21T12:12:01.929998",
+    "Business": "2026-04-21T12:12:01.968852"
   }
 }

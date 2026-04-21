@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 07:41
+**最后更新时间**: 2026-04-21 12:11
+
+---
+
+## 🆕 最新更新 (2026-04-21 12:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Halliburton’s earnings take a hit from the Iran conflict, but they still top forecasts](https://www.marketwatch.com/story/halliburtons-earnings-take-a-hit-from-the-iran-conflict-but-they-still-top-forecasts-acca3198?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 12:02
+
+#### [The chatbot era is over — these 3 sectors are the real AI gold mines for 2026](https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 11:57
+
+#### [Traders pile into call options as fear of missing out grows, according to Cboe](https://www.marketwatch.com/story/traders-pile-into-call-options-as-fear-of-missing-out-grows-according-to-cboe-c63f2038?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 11:56
+
+#### [The ‘blue sky’ scenario that could take the S&P 500 to 8,000 by year’s end, according to JPMorgan](https://www.marketwatch.com/story/the-blue-sky-scenario-that-could-take-the-s-p-500-to-8-000-by-years-end-according-to-jpmorgan-10138b80?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 11:25
+
+#### [GE’s profit beats by wide margin, sending its stock into positive territory for the year](https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 11:25
+
+#### [The current oil shock most resembles the first Gulf War, says UBS. What that means for prices.](https://www.marketwatch.com/story/oil-will-fall-to-the-mid-80s-in-a-best-case-scenario-says-ubs-312a7055?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 11:13
+
+#### [Financial literacy will get serious treatment in high schools starting next year](https://www.marketwatch.com/story/financial-literacy-will-get-serious-treatment-in-high-schools-starting-next-year-13e94b76?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 11:00
+
+#### [This is the No. 1 financial worry for retirees right now](https://www.marketwatch.com/story/this-is-the-no-1-financial-worry-for-retirees-right-now-b5cb7884?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 10:01
+
+#### [UnitedHealth’s stock surges as profit beats expectations by widest margin in five years](https://www.marketwatch.com/story/unitedhealths-stock-surges-as-profit-beats-expectations-by-widest-margin-in-five-years-9d1cebb1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 10:01
+
+#### [Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so](https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 09:30
 
 ---
 

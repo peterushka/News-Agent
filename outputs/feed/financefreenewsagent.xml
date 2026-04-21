@@ -5,8 +5,8 @@
     <link>https://peterushka.github.io/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Apr 2026 07:41:00 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Apr 2026 07:41:54 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 12:11:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:12:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://peterushka.github.io/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bonds could lag stocks for the rest of 2026, according to this contrarian signal</title>
-      <link>https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Bonds could lag stocks for the rest of 2026, according to this contrarian signal]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 01:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories</guid>
+      <title>Halliburton’s earnings take a hit from the Iran conflict, but they still top forecasts</title>
+      <link>https://www.marketwatch.com/story/halliburtons-earnings-take-a-hit-from-the-iran-conflict-but-they-still-top-forecasts-acca3198?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Halliburton’s earnings take a hit from the Iran conflict, but they still top forecasts]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/halliburtons-earnings-take-a-hit-from-the-iran-conflict-but-they-still-top-forecasts-acca3198?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Okta’s stock is surging. Here’s why identity security has become the next hot thing.</title>
-      <link>https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Okta’s stock is surging. Here’s why identity security has become the next hot thing.]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 01:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories</guid>
+      <title>The chatbot era is over — these 3 sectors are the real AI gold mines for 2026</title>
+      <link>https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The chatbot era is over — these 3 sectors are the real AI gold mines for 2026]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Traders pile into call options as fear of missing out grows, according to Cboe</title>
+      <link>https://www.marketwatch.com/story/traders-pile-into-call-options-as-fear-of-missing-out-grows-according-to-cboe-c63f2038?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Traders pile into call options as fear of missing out grows, according to Cboe]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/traders-pile-into-call-options-as-fear-of-missing-out-grows-according-to-cboe-c63f2038?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The ‘blue sky’ scenario that could take the S&amp;P 500 to 8,000 by year’s end, according to JPMorgan</title>
+      <link>https://www.marketwatch.com/story/the-blue-sky-scenario-that-could-take-the-s-p-500-to-8-000-by-years-end-according-to-jpmorgan-10138b80?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The ‘blue sky’ scenario that could take the S&amp;P 500 to 8,000 by year’s end, according to JPMorgan]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-blue-sky-scenario-that-could-take-the-s-p-500-to-8-000-by-years-end-according-to-jpmorgan-10138b80?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>GE’s profit beats by wide margin, sending its stock into positive territory for the year</title>
+      <link>https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[GE’s profit beats by wide margin, sending its stock into positive territory for the year]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The current oil shock most resembles the first Gulf War, says UBS. What that means for prices.</title>
+      <link>https://www.marketwatch.com/story/oil-will-fall-to-the-mid-80s-in-a-best-case-scenario-says-ubs-312a7055?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The current oil shock most resembles the first Gulf War, says UBS. What that means for prices.]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-will-fall-to-the-mid-80s-in-a-best-case-scenario-says-ubs-312a7055?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Financial literacy will get serious treatment in high schools starting next year</title>
+      <link>https://www.marketwatch.com/story/financial-literacy-will-get-serious-treatment-in-high-schools-starting-next-year-13e94b76?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Financial literacy will get serious treatment in high schools starting next year]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/financial-literacy-will-get-serious-treatment-in-high-schools-starting-next-year-13e94b76?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This is the No. 1 financial worry for retirees right now</title>
+      <link>https://www.marketwatch.com/story/this-is-the-no-1-financial-worry-for-retirees-right-now-b5cb7884?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This is the No. 1 financial worry for retirees right now]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-is-the-no-1-financial-worry-for-retirees-right-now-b5cb7884?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UnitedHealth’s stock surges as profit beats expectations by widest margin in five years</title>
+      <link>https://www.marketwatch.com/story/unitedhealths-stock-surges-as-profit-beats-expectations-by-widest-margin-in-five-years-9d1cebb1?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[UnitedHealth’s stock surges as profit beats expectations by widest margin in five years]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/unitedhealths-stock-surges-as-profit-beats-expectations-by-widest-margin-in-five-years-9d1cebb1?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so</title>
+      <link>https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

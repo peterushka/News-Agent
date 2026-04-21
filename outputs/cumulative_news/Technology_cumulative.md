@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 07:41
+**最后更新时间**: 2026-04-21 12:11
+
+---
+
+## 🆕 最新更新 (2026-04-21 12:11)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 036 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配](https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 19:59
+
+#### [中国具身智能最高单轮融资出炉！前华为、百度高管联手创业，打造真干活、真量产的机器人](https://www.infoq.cn/article/aqYPpJBPlvaJDQDCNlrJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 17:37
+
+#### [智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势](https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 17:29
+
+#### [“守成者”库克卸任CEO：除了离开，他再没有什么能贡献给苹果了](https://www.infoq.cn/article/PxmVh2miqDZB6jDbAqeK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 17:23
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [50亿估值，投资人挤破头要投张雪](https://www.tmtpost.com/7961399.html)
+**发布时间**: 2026-04-21 19:08
+
+#### [MiniMax不需要讨好开源](https://www.tmtpost.com/7961547.html)
+**发布时间**: 2026-04-21 19:08
+
+#### [大厂苦文档久矣](https://www.tmtpost.com/7961335.html)
+**发布时间**: 2026-04-21 18:07
+
+#### [伟大的接班人，都在背叛前任](https://www.tmtpost.com/7961333.html)
+**发布时间**: 2026-04-21 18:07
+
+#### [自主还是兼容：DeepSeek V4延期背后的中国AI生态选择题](https://www.tmtpost.com/7961261.html)
+**发布时间**: 2026-04-21 18:06
+
+#### [三个“十亿美元分子”，偏头疼药物大爆发](https://www.tmtpost.com/7961100.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [谷歌也急了](https://www.tmtpost.com/7961120.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [知名记者出书爆锤OpenAI，奥特曼亲自下场反击，《AI帝国》作者最新访谈揭露了更多内幕](https://www.tmtpost.com/7951128.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [扣子2.5替我刷抖音、逛酒馆：坏了，我成替身了？](https://www.tmtpost.com/7961188.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图](https://www.tmtpost.com/7961404.html)
+**发布时间**: 2026-04-21 17:16
+
+#### [AI时代最贵的“布”，到底有多抢手？](https://www.tmtpost.com/7961280.html)
+**发布时间**: 2026-04-21 16:40
+
+#### [梭哈AI！爱奇艺“疯了”上热搜，爱豆会失业吗？](https://www.tmtpost.com/7960502.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [龚宇的AI梦，为何成了爱奇艺的公关噩梦？](https://www.tmtpost.com/7960807.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [从FDA绿灯到国内未获批准，全球FIC折戟背后](https://www.tmtpost.com/7960894.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [DDR3第二春：一场没得选的狂欢](https://www.tmtpost.com/7960900.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [制药界Space X登场，AI制药集齐“三小龙”](https://www.tmtpost.com/7960901.html)
+**发布时间**: 2026-04-21 16:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Tim Cook 将要转任的「执行董事长」是什么职务？](https://sspai.com/post/108945)
+**发布时间**: 2026-04-21 18:09
+
+#### [社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛](https://sspai.com/post/108943)
+**发布时间**: 2026-04-21 17:32
+
+### 📰 来源: [VentureBeat](https://venturebeat.com/feed/)
+
+#### [Adversaries hijacked AI security tools at 90+ organizations. The next wave has write access to the firewall](https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall)
+**发布时间**: 2026-04-21 12:05
+
+#### [Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference](https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference)
+**发布时间**: 2026-04-17 17:34
+
+#### [Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds](https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds)
+**发布时间**: 2026-04-17 17:07
+
+#### [Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma](https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma)
+**发布时间**: 2026-04-17 15:00
+
+#### [Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps](https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps)
+**发布时间**: 2026-04-17 14:06
+
+#### [Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents](https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents)
+**发布时间**: 2026-04-16 21:00
+
+#### [Are we getting what we paid for? How to turn AI momentum into measurable value](https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value)
+**发布时间**: 2026-04-16 19:55
+
+### 📰 来源: [网易科技](https://wechat2rss.bestblogs.dev/feed/028fbc21062e744c7b606880ebca01e22cb4b7b7.xml)
+
+#### [苹果突然宣布：库克卸任CEO，为何是这位“硬件狂人”接班？](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650535838&idx=1&sn=0dea5c5932a40f9e21f0029f1800d5b8)
+**发布时间**: 2026-04-21 08:08
 
 ---
 
