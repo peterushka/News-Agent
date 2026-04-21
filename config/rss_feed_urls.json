@@ -142,5 +142,41 @@
         "category": "Business",
         "language": "zh",
         "rss": "https://wechat2rss.bestblogs.dev/feed/396591aa7d3ef15fa3b5b17ec4b1aa840ebde335.xml"
+    },
+    {
+        "name": "VentureBeat",
+        "category": "Technology",
+        "language": "en",
+        "rss": "https://venturebeat.com/feed/"
+    },
+    {
+        "name": "GamesIndustry.biz",
+        "category": "Business",
+        "language": "en",
+        "rss": "https://www.gamesindustry.biz/feed"
+    },
+    {
+        "name": "PocketGamer.biz",
+        "category": "Business",
+        "language": "en",
+        "rss": "https://www.pocketgamer.biz/rss/"
+    },
+    {
+        "name": "Esports Insider",
+        "category": "Business",
+        "language": "en",
+        "rss": "https://esportsinsider.com/feed"
+    },
+    {
+        "name": "Digiday",
+        "category": "Business",
+        "language": "en",
+        "rss": "https://digiday.com/feed/"
+    },
+    {
+        "name": "Adweek",
+        "category": "Business",
+        "language": "en",
+        "rss": "https://www.adweek.com/feed/"
     }
 ]
